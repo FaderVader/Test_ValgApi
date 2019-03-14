@@ -1,0 +1,828 @@
+{"results": [
+        {
+            "OmrKode": 1, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-01",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 2, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-02",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 3, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-03",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 4, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-04",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 5, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-05",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 6, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-06",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 7, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-07",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 8, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-08",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 9, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-09",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 10, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-010",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 11, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-011",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 12, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-012",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 13, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-013",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 14, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-014",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 15, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-015",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 16, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-016",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 17, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-017",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 18, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-018",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 19, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-019",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 20, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-020",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 21, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-021",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 22, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-022",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 23, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-023",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 24, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-024",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 25, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-025",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 26, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-026",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 27, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-027",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 28, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-028",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 29, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-029",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 30, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-030",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 31, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-031",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 32, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-032",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 33, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-033",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 34, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-034",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 35, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-035",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 36, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-036",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 37, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-037",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 38, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-038",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 39, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-039",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 40, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-040",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 41, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-041",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 42, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-042",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 43, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-043",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 44, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-044",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 45, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-045",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 46, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-046",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 47, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-047",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 48, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-048",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 49, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-049",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 50, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-050",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 51, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-051",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 52, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-052",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 53, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-053",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 54, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-054",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 55, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-055",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 56, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-056",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 57, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-057",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 58, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-058",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 59, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-059",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 60, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-060",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 61, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-061",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 62, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-062",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 63, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-063",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 64, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-064",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 65, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-065",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 66, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-066",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 67, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-067",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 68, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-068",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 69, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-069",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 70, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-070",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 71, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-071",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 72, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-072",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 73, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-073",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 74, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-074",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 75, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-075",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 76, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-076",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 77, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-077",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 78, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-078",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 79, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-079",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 80, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-080",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 81, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-081",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 82, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-082",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 83, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-083",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 84, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-084",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 85, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-085",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 86, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-086",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 87, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-087",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 88, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-088",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 89, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-089",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 90, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-090",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 91, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-091",
+            "Konstellationer": "4,10"
+        },
+        
+        {
+            "OmrKode": 92, 
+            "OmrType": "K",
+            "ResultatType": "R",
+            "Valg": "fv2018",
+            "ResultGuid": "000-092",
+            "Konstellationer": "4,10"
+        }]}
